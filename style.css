@@ -2,6 +2,7 @@ body{
     display: flex;
     align-item: center;
     justify-content: center;
+    height: 100vh;
 }
 
 .container{
